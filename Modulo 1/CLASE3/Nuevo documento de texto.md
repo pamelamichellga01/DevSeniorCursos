@@ -1,0 +1,1 @@
+ctrl+shif(izq)+p -> java:create java proyect -> No build tools
